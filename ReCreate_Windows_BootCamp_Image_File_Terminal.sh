@@ -1,9 +1,12 @@
+#!/bin/bash
+
 # Problem:  When Running Windows BootCamp on MAC, permission has been reset everytime when the Mac OS X Yosemite is reboot.
 # Purpose:  This quick Patch will fix all the permission issues and be able to run with no permission problems
 
 #  To re-create Windows BootCamp Image File
 #  1)  Open Terminal
 
+#!/bin/bash
 $ ls -al
 $ cd "VirtualBox VMs"
 $ rm -rf Win7onMBP

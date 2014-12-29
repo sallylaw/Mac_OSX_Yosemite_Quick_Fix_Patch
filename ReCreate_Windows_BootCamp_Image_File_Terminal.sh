@@ -7,6 +7,7 @@
 #  1)  Open Terminal
 
 ls -al
+rm -rf VirtualBox\ VMs/
 cd VirtualBoxVMs
 rm -rf Win7onMBP
 mkdir Win7onMBP
